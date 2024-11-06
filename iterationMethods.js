@@ -6,7 +6,7 @@ const transactions = [
   ["income", 700],
 ];
 
-
+//
 
 // 1) Write a `filterIncomeTransactions` function that returns a new array containing only the income transactions.
 function filterIncomeTransactions(transactions) {
